@@ -36,11 +36,11 @@ A modern React application that fetches and displays products from the Fake Stor
 ## 📂 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/aminhafsa245-oss/Product-Explorer
 ```
 
 ```bash
-cd YOUR_REPOSITORY
+cd product-explorer
 ```
 
 ```bash
