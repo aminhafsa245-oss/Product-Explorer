@@ -6,7 +6,7 @@ A modern React application that fetches and displays products from the Fake Stor
 
 ## 🚀 Live Demo
 
-product-explorer-v4xk.vercel.app
+https://product-explorer-v4xk.vercel.app
 
 ## ✨ Features
 
