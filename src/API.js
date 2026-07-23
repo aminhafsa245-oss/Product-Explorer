@@ -1,11 +1,11 @@
-export async function getProducts() {
-  await new Promise((resolve) => setTimeout(resolve, 3000));
+const API_URL = "https://fakestoreapi.com/products";
 
+export async function getProducts() {
   const response = await fetch(API_URL);
 
   if (!response.ok) {
     throw new Error("Failed to fetch products");
   }
 
-  return response.json();
+  return await response.json();
 }
