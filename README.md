@@ -1,16 +1,69 @@
-# React + Vite
+# 🛍️ Product Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React application that fetches and displays products from the Fake Store API. Users can search, filter, and sort products with a clean, responsive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Fetches live product data from the Fake Store API
+- Loading state while fetching data
+- Friendly error handling
+- Search products by name
+- Filter products by category
+- Sort products by price (Low → High / High → Low)
+- Responsive design
+- Sticky navigation bar
+- Scroll-to-top button
+- Modern UI
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- Vite
+- JavaScript
+- CSS
+- Fake Store API
+
+---
+
+## 📂 Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+```
+
+```bash
+cd YOUR_REPOSITORY
+```
+
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
+
+---
+
+## 📚 What I Learned
+
+- Working with REST APIs
+- Managing React state with Hooks
+- Error handling in asynchronous requests
+- Search, filtering, and sorting
+- Building responsive layouts
+- Deploying React applications
+
+---
+
+## 👩‍💻 Author
+
+Hafsa Amin
